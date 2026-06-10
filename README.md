@@ -262,8 +262,20 @@ ________________________________________
 •	Docker Deployment
 •	Cloud Deployment
 ________________________________________
+📸 Project Screenshots
+• Swagger Documentation
+• Book Management APIs
+• Library Management APIs
+• User Management APIs
+• Borrow Book Response
+• Return Book Response
+________________________________________
 👨‍💻 Developer
 Gunaseelan Murugesan
 Java Full Stack Developer
 📧 gunaseelan05221@gmail.com
 📱 7418708712
+📍 Dindigul, Tamil Nadu, India
+Connect With Me
+GitHub:
+https://github.com/guna05221
